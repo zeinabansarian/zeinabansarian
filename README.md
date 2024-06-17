@@ -5,8 +5,7 @@ const me = {
   status : 202 ,
   name : "zeinab ansariyan",
   birthday: "16 Nov 1999",
-  university : "Islamic Azad University of yadegar emam",
-  Qualifications : "Bachelor of Computer engineer, software orientation"
+  Qualifications : "Bachelor of Computer engineer, software orientation",
 }
 ```
 
