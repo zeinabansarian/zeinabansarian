@@ -3,7 +3,7 @@
 ```javascript
 const me = {
   status : 202 ,
-  name : "zeinab ansariyan",
+  name : "zeinab ansarian",
   birthday: "16 Nov 1999",
   Qualifications : "Bachelor of Computer engineer, software orientation",
 }
